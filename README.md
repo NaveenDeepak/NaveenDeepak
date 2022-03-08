@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenDeepak
-- 👀 I’m interested in Automation and Artificial Intelligence
-- 🌱 I’m currently learning ANN applications in Product Engineering 
+- 👀 I’m interested in energy efficient engineering, design and automation.
+- 🌱 I’m currently learning ML/AI for applications in Electrical Engineering 
 - 💞️ I’m looking to collaborate on AI projects for engineering
 - 📫 How to reach me: vnaveendeepak@gmail.com
 
